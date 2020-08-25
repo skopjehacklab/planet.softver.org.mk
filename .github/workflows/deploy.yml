@@ -1,0 +1,35 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "11 * * * *"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: install planet
+      run: |
+        sudo apt install -y bzr locales
+        sudo localedef -i mk_MK -f UTF-8 mk_MK.UTF-8
+        sudo pip install bzr+https://people.gnome.org/~jdub/bzr/planet/devel/trunk/#egg=planet
+        sudo mv /usr/local/bin/planet.py /usr/local/bin/planet-main.py
+
+    - name: build site
+      run: /usr/local/bin/planet-main.py config.ini
+      env:
+        LANG: mk_MK.UTF-8
+        TZ: CEST
+
+    - name: deploy to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public_html
+        cname: planet.softver.org.mk
