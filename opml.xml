@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>Македонска GNU/Linux планета</title>
+		<dateCreated>вто, 25 авг 2020 17:32:47 +0000</dateCreated>
+		<dateModified>вто, 25 авг 2020 17:32:47 +0000</dateModified>
+		<ownerName>Дамјан Георгиевски</ownerName>
+		<ownerEmail>gdamjan@gmail.com</ownerEmail>
+	</head>
+	
+	<body>
+		<outline text="Mozilla.мк блог" xmlUrl=""/>
+		<outline text="Александар Балаловски" xmlUrl=""/>
+		<outline text="Арангел Ангов (ufo)" xmlUrl=""/>
+		<outline text="Благој Петрушев" xmlUrl=""/>
+		<outline text="Виктор Стојановски-zuberot" xmlUrl=""/>
+		<outline text="Владимир Стефанов" xmlUrl=""/>
+		<outline text="Владислав Бидиков" xmlUrl=""/>
+		<outline text="Георги Станојевски" xmlUrl=""/>
+		<outline text="Гоце Митевски" xmlUrl=""/>
+		<outline text="Далибор Насевиќ" xmlUrl=""/>
+		<outline text="Дамјан Георгиевски" xmlUrl=""/>
+		<outline text="Игор Стаматовски" xmlUrl=""/>
+		<outline text="Мите Митрески" xmlUrl=""/>
+		<outline text="Новица Наков" xmlUrl=""/>
+		<outline text="Слободен софтвер Македонија" xmlUrl=""/>
+		<outline text="Сподели знаење" xmlUrl=""/>
+		<outline text="Теофил Наков" xmlUrl=""/>
+	</body>
+</opml>
