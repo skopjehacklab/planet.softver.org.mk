@@ -1,5 +1,5 @@
 #planet-main-content {
-    margin-left: 255px;
+    margin-left: 300px;
 }
 
 body {
@@ -93,7 +93,6 @@ img.face {
 	font-family: verdana, arial, sans-serif;
 	font-size: x-small;
 
-	border: #aaaaaa 1px solid;
 	color: #444444;
 }
 
