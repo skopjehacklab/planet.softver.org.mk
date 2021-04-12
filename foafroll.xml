@@ -65,6 +65,19 @@
 	</foaf:member>
 	<foaf:member>
 		<foaf:Agent>
+			<foaf:name>Боро Ситниковски</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="https://bor0.wordpress.com/">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
 			<foaf:name>Владимир Стефанов</foaf:name>
 			<foaf:weblog>
 				<foaf:Document rdf:about="">
@@ -212,6 +225,19 @@
 			<foaf:weblog>
 				<foaf:Document rdf:about="http://teofil.discindo.org">
 					<dc:title>Teofil Nakov</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Христијан Лубески</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="https://blog.lh.mk">
+					<dc:title></dc:title>
 					<rdfs:seeAlso>
 						<rss:channel rdf:about="" />
 					</rdfs:seeAlso>

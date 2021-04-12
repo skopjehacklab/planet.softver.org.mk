@@ -2,8 +2,8 @@
 <opml version="1.1">
 	<head>
 		<title>Македонска GNU/Linux планета</title>
-		<dateCreated>пон, 11 јан 2021 20:40:20 +0000</dateCreated>
-		<dateModified>пон, 11 јан 2021 20:40:20 +0000</dateModified>
+		<dateCreated>пон, 12 апр 2021 09:29:38 +0000</dateCreated>
+		<dateModified>пон, 12 апр 2021 09:29:38 +0000</dateModified>
 		<ownerName>Дамјан Георгиевски</ownerName>
 		<ownerEmail>gdamjan@gmail.com</ownerEmail>
 	</head>
@@ -13,6 +13,7 @@
 		<outline text="Александар Балаловски" xmlUrl=""/>
 		<outline text="Арангел Ангов (ufo)" xmlUrl=""/>
 		<outline text="Благој Петрушев" xmlUrl=""/>
+		<outline text="Боро Ситниковски" xmlUrl=""/>
 		<outline text="Владимир Стефанов" xmlUrl=""/>
 		<outline text="Владислав Бидиков" xmlUrl=""/>
 		<outline text="Георги Станојевски" xmlUrl=""/>
@@ -25,5 +26,6 @@
 		<outline text="Слободен софтвер Македонија" xmlUrl=""/>
 		<outline text="Сподели знаење" xmlUrl=""/>
 		<outline text="Теофил Наков" xmlUrl=""/>
+		<outline text="Христијан Лубески" xmlUrl=""/>
 	</body>
 </opml>
