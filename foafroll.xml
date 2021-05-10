@@ -93,8 +93,8 @@
 		<foaf:Agent>
 			<foaf:name>Владислав Бидиков</foaf:name>
 			<foaf:weblog>
-				<foaf:Document rdf:about="http://vladislav.bidikov.com.mk">
-					<dc:title>Vladislav Bidikov – BLOG</dc:title>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
 					<rdfs:seeAlso>
 						<rss:channel rdf:about="" />
 					</rdfs:seeAlso>
