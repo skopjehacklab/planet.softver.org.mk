@@ -8,21 +8,23 @@
 	<description>Македонска GNU/Linux планета - http://planet.softver.org.mk</description>
 
 <item>
-	<title>Сподели знаење: From scratch: имплементираме MD5 во Python</title>
-	<guid>http://feedproxy.google.com/~r/spodeliznaenje/~3/3vUUfWd0w0g/</guid>
-	<link>http://feedproxy.google.com/~r/spodeliznaenje/~3/3vUUfWd0w0g/</link>
+	<title>Сподели знаење: IRC Новости: КИКА се сели на Libera.chat</title>
+	<guid>http://feedproxy.google.com/~r/spodeliznaenje/~3/Pb-A23PzVHI/</guid>
+	<link>http://feedproxy.google.com/~r/spodeliznaenje/~3/Pb-A23PzVHI/</link>
 	<description>
     &lt;img src=&quot;http://planet.softver.org.mk/images/mozok.png&quot; width=&quot;92&quot;  height=&quot;72&quot; alt=&quot;&quot; align=&quot;right&quot; style=&quot;float: right;&quot;&gt;
 
-&lt;p&gt;Од чиста мира, без некоја особена потреба, вечерва Андреј Т. (whoeverest) ќе го реимплементира MD5 hashing алгоритмот во Python. Во живо на стрим се разбира: &lt;a href=&quot;https://meet.google.com/rta-negd-yjg&quot;&gt;https://meet.google.com/rta-negd-yjg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Овој алгоритам си има посебно место во историјата; на времето (кога беше све поарно) се користеше за хаширање на лозинки, секако, доколку програмерите беа доволно совесни да ги хашираат, арно ама испадна криптографски несигурен и денеска се користи претежно за не-толку-битни проверки од типот „фајл А е еднаков на фајл Б.“&lt;/p&gt;
-&lt;p&gt;Инаку постов го крстив „From scratch&amp;#8221; затоа што од пред некое време имав идеја да направам редовен настан кај што ќе имплементираме Х од нула, каде што Х е некоја работа која ја користиме и земаме здраво за готово. Во зависност од интересот, ова може да биде еднократен настан или серија. Ако е серија ќе ја туриме на Нетфликс хехе.&lt;/p&gt;
-&lt;p&gt;Се гледаме вечер во 20:00ч. (Дата: 11.04, ден недела.)&lt;/p&gt;
-&lt;img class=&quot;size-medium&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hash_table_4_1_1_0_0_1_0_LL.svg/1920px-Hash_table_4_1_1_0_0_1_0_LL.svg.png&quot; width=&quot;1920&quot; height=&quot;1472&quot; /&gt;Првата слика кога ќе пишеш hashing algorithm во DuckDuckGo, од Википедија.
-&lt;p&gt;Написот &lt;a rel=&quot;nofollow&quot; href=&quot;https://kika.spodeli.org/2021/04/11/from-scratch-md5/&quot;&gt;From scratch: имплементираме MD5 во Python&lt;/a&gt; изворно е објавен на &lt;a rel=&quot;nofollow&quot; href=&quot;https://kika.spodeli.org&quot;&gt;хаклаб КИКА&lt;/a&gt;.&lt;/p&gt;
-&lt;img src=&quot;http://feeds.feedburner.com/~r/spodeliznaenje/~4/3vUUfWd0w0g&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;ИЗВЕСТУВАЊЕ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Овој блог напис е кратко инфо за новиот официјален IRC сервер и канал што го користиме.&lt;/p&gt;
+&lt;p&gt;Масовната миграција на канали и корисници се случува на серверот Freenodе на која ѝ претходеше жестока драма. Добар дел од модераторите на Freenode решија да отворат нов сервер, &lt;a href=&quot;https://libera.chat&quot;&gt;Libera.chat&lt;/a&gt;,  со себе повлекувајќи и огромен дел од корисниците и каналите. Нашиот канал &lt;strong&gt;#lugola&lt;/strong&gt; повеќе нема да биде активен на Freenode.&lt;/p&gt;
+&lt;p&gt;Новиот канал е под името &lt;strong&gt;#spodeli&lt;/strong&gt;, а серверот:&lt;/p&gt;
+&lt;pre class=&quot;nowrap&quot;&gt;/server add libera irc.libera.chat/6697 -ssl&lt;/pre&gt;
+&lt;p&gt;А со тоа и нов лог: &lt;a href=&quot;https://irc.softver.org.mk/#/spodeli&quot;&gt;https://irc.softver.org.mk/#/spodeli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Се читаме на IRC. &lt;img src=&quot;https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png&quot; alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Написот &lt;a rel=&quot;nofollow&quot; href=&quot;https://kika.spodeli.org/2021/06/20/irc-novosti-kika-se-seli-na-libera-chat/&quot;&gt;IRC Новости: КИКА се сели на Libera.chat&lt;/a&gt; изворно е објавен на &lt;a rel=&quot;nofollow&quot; href=&quot;https://kika.spodeli.org&quot;&gt;хаклаб КИКА&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&quot;http://feeds.feedburner.com/~r/spodeliznaenje/~4/Pb-A23PzVHI&quot; height=&quot;1&quot; width=&quot;1&quot; alt=&quot;&quot; /&gt;
     </description>
-	<pubDate>нед, 11 апр 2021 16:43:48 +0000</pubDate>
+	<pubDate>нед, 20 јун 2021 10:06:16 +0000</pubDate>
 </item>
 
 </channel>
