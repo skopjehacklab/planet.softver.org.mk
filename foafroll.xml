@@ -184,8 +184,8 @@
 		<foaf:Agent>
 			<foaf:name>Новица Наков</foaf:name>
 			<foaf:weblog>
-				<foaf:Document rdf:about="https://novica.discindo.org/">
-					<dc:title>airborne</dc:title>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
 					<rdfs:seeAlso>
 						<rss:channel rdf:about="" />
 					</rdfs:seeAlso>
