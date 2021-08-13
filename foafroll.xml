@@ -55,7 +55,7 @@
 			<foaf:name>Благој Петрушев</foaf:name>
 			<foaf:weblog>
 				<foaf:Document rdf:about="http://bpetrushev.appspot.com/t">
-					<dc:title>Baze Petrushev</dc:title>
+					<dc:title></dc:title>
 					<rdfs:seeAlso>
 						<rss:channel rdf:about="" />
 					</rdfs:seeAlso>
